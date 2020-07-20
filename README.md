@@ -1,0 +1,2 @@
+# RS485-with-PIC16F877
+A master is a project consisting of three slaves. The data from the interface is transmitted to the slaves by the master, and the necessary measurements are made and sent to the interface again. ID and CRC control is also carried out in the project. Its circuit has been established in the heat environment. The interface is written in C # environment. That my_rs485.c file was written by me.
